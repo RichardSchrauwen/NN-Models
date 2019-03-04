@@ -4,7 +4,7 @@
 
 Use of Amazon Sagemaker to build, test and deploy neural networks. 
 
-* notebook High Level
+* notebook XGBoost (Batch Transform):
 - A model is trained first
 - A transformer is made
 
