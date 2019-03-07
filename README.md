@@ -1,4 +1,4 @@
-# NN-Models
+# NN-Models & SageMaker Deployment
 
 ## Neural Network Model Deployment
 
