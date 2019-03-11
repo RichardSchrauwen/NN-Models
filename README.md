@@ -10,6 +10,6 @@ Notebook XGBoost (Batch Transform) contents:
 - Perform a batch transform job
 
 How to test with an external application:
-- Create a HTTP POST endpoint (API) in API Management
-- Create test application to use the endpoint (url)
+- Create a HTTP POST endpoint (API) in AWS API Management
+- Create test application to use the just created endpoint (url)
 - or use the index.html and insert the url in there
